@@ -1,1 +1,1 @@
-displays the dislikes of burgerpommes
+Zeigt die aktuelle Anzahl der Dislikes auf ein YouTube Video an
